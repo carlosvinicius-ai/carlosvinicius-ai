@@ -4,6 +4,8 @@
 
 Tenho 18 anos e sou estudante de Ciências da Computação na Universidade Paulista </br> Sou apaixonado pelo Desenvolvimento Web e estou em busca de mais aprendizado
 
+#
+
 <p align="center">
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=dracula" />
 </p>
