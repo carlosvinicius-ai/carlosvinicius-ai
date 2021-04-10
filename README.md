@@ -10,7 +10,7 @@ Tenho 18 anos e sou estudante de Ciências da Computação na Universidade Pauli
 #
 
 <p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=dracula" />
+  <img align="center" height="250" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=dracula" />
 </p>
 
 #
