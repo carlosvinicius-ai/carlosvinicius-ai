@@ -5,7 +5,7 @@
 
 ## About Me!
 
-Tenho 18 anos e sou estudante de Ciências da Computação na Universidade Paulista </br> Sou apaixonado pelo Desenvolvimento Web e estou em busca de mais aprendizado
+Tenho 18 anos e sou estudante de Ciências da Computação na Universidade Paulista </br> Sou apaixonado pelo Desenvolvimento Web e pelo UI/UX Design e estou em busca de mais aprendizado
 
 #
 
