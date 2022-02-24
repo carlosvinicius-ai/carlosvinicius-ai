@@ -1,5 +1,7 @@
 # Olá! Eu sou Carlos Vinícius! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvinicius-ai&color=blueviolet" alt="Profile views" /> </p>
+
 - 🎓 Estou estudando Ciências da Computação
 - :tada: Tenho 19 anos
 - 📚 Estudando Javascript
