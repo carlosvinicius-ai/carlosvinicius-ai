@@ -7,11 +7,9 @@
 - 📚 Estudando Java
 - ✉️ meu e-mail: cvinicius32@hotmail.com
 
-<div align="center">
-  <a href="https://github.com/carlosvinicius-ai">
-  [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=default)](https://github.com/carlosvinicius-ai/)
   [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=default&show_icons=true)](https://github.com/carlosvinicius-ai/)
-</div>
+  [![carlosvinicius-ai](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicius-ai&hide=html&layout=compact=true&theme=default)](https://github.com/carlosvinicius-ai/)
+
   
 ##
   
