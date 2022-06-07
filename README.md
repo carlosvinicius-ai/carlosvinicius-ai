@@ -6,10 +6,10 @@
 - :tada: Tenho 19 anos
 - 📚 Estudando Java
 - ✉️ meu e-mail: cvinicius32@hotmail.com
-<div align-items = "center">
+
   [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/carlosvinicius-ai/)
   [![carlosvinicius-ai](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicius-ai&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/carlosvinicius-ai/)
-<\div>
+
 
   
 ##
