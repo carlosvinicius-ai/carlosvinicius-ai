@@ -4,7 +4,7 @@
 
 - 🎓 Estou estudando Ciências da Computação
 - :tada: Tenho 19 anos
-- 📚 Estudando Java
+- 📚 Estudando Python
 - ✉️ meu e-mail: cvinicius32@hotmail.com
 
   [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/carlosvinicius-ai/)
