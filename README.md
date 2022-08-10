@@ -28,6 +28,7 @@
   <img align="center" alt="Carlos-Vscode" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Carlos-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Carlos-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Carlos-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
 ##
