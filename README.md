@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvinicius-ai&color=blueviolet" alt="Profile views" /> </p>
 
 - 🎓 Estou estudando Ciências da Computação
-- :tada: Tenho 19 anos
+- :tada: Tenho 20 anos
 - 📚 Estudando MySQL e Python
 - ✉️ meu e-mail: cvinicius32@hotmail.com
 
