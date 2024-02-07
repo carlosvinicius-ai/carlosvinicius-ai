@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvinicius-ai&color=blueviolet" alt="Profile views" /> </p>
 
 - 🎓 Estou estudando Ciências da Computação
-- :tada: Tenho 20 anos
-- 📚 Estudando MySQL e Python
+- :tada: Tenho 21 anos
+- 📚 Professor de Programação SENAI-SP
 - ✉️ meu e-mail: cvinicius32@hotmail.com
 
   [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/carlosvinicius-ai/)
@@ -36,8 +36,6 @@
 ### Meus contatos 📱
   
 <div> 
-  <a href="https://www.instagram.com/carlos_vi2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=11954054051" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:cvinicius32@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosvini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
