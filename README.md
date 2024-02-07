@@ -10,7 +10,7 @@
   [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/carlosvinicius-ai/)
   <br>
   <br>
-  [![carlosvinicius-ai](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![carlosvinicius-ai](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
