@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvinicius-ai&color=blueviolet" alt="Profile views" /> </p>
 
 - 🎓 Estou estudando Ciências da Computação
-- :tada: Tenho 21 anos
+- :tada: Tenho 22 anos
 - 📚 Professor de Programação SENAI-SP
 - ✉️ meu e-mail: cvinicius32@hotmail.com
 
