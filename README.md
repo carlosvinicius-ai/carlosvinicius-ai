@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&height=50&lines=Technology+Consultant;AI+%26+Data+Science+Specialist;Python+Specialist;Graduate+in+Computer+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&height=50&lines=Consultor+de+Tecnologia;MBA+em+IA+e+Ci%C3%AAncia+de+Dados;P%C3%B3s-Graduando+em+Computa%C3%A7%C3%A3o+Qu%C3%A2ntica;Especialista+em+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,8 @@
 
 Sou **Consultor de Tecnologia** apaixonado por transformar dados e problemas complexos em soluções inteligentes. No meu dia a dia, trabalho diretamente com o desenvolvimento, implementação e otimização de soluções baseadas em **Inteligência Artificial** e **Ciência de Dados**.
 
-* 🎓 **Pós-graduado** em Inteligência Artificial e Ciência de Dados.
+* 🎓 **MBA** em Inteligência Artificial e Ciência de Dados.
+* 🎓 **Estudante de Pós-Graduação** em Computação Quântica.
 * 💻 **Bacharel** em Ciência da Computação.
 * 🐍 **Especialidade**: Ecossistema Python aplicado a Machine Learning e Deep Learning.
 * 💡 **Filosofia**: Unir rigor técnico e visão analítica para impulsionar negócios através dos dados.
@@ -27,6 +28,7 @@ Sou **Consultor de Tecnologia** apaixonado por transformar dados e problemas com
 
 * **Machine Learning & Deep Learning**: Modelagem preditiva, redes neurais e pipelines de treinamento.
 * **Processamento de Linguagem Natural (NLP) & GenAI**: Integração com grandes modelos de linguagem (LLMs), RAG (Retrieval-Augmented Generation) e engenharia de prompts.
+* **Visão Computacional & Sistemas de Recomendação**: Algoritmos de detecção, segmentação, filtragem colaborativa e recomendação personalizada.
 * **Ciência e Análise de Dados**: Engenharia de features, visualização de dados e inteligência de negócios.
 * **Arquitetura de Soluções de IA**: Criação de APIs robustas de IA e deploy de modelos em nuvem.
 
@@ -54,6 +56,7 @@ Sou **Consultor de Tecnologia** apaixonado por transformar dados e problemas com
   <br>
   <!-- Tools & Cloud -->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -66,11 +69,11 @@ Sou **Consultor de Tecnologia** apaixonado por transformar dados e problemas com
 
 <p align="center">
   <a href="https://github.com/carlosvinicius-ai/">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true&locale=pt-br" alt="GitHub Stats" height="180px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true&include_all_commits=true&border_radius=8" alt="Estatísticas do GitHub" height="180px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/carlosvinicius-ai/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=tokyonight&show_icons=true&locale=pt-br" alt="Top Langs" height="180px" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=carlosvinicius-ai&layout=compact&theme=tokyonight&show_icons=true&langs_count=6&border_radius=8" alt="Linguagens mais usadas" height="180px" />
   </a>
 </p>
 
@@ -78,20 +81,19 @@ Sou **Consultor de Tecnologia** apaixonado por transformar dados e problemas com
 
 ### 📬 Vamos nos conectar?
 
-<p align="left">
-  <a href="mailto:cvinicius32@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<div align="left">
+  <a href="mailto:cvinicius32@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carlosvini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
 
 ---
 
 ### 🎮 Contribuições (Snake Game)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosvinicius-ai/carlosvinicius-ai/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carlosvinicius-ai/carlosvinicius-ai/output/github-contribution-grid-snake.svg?v=2026" alt="Snake animation" />
+</div>
